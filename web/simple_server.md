@@ -1,4 +1,4 @@
-# web
+# Python simple http(s) server
 
 ### simple http server 
 
